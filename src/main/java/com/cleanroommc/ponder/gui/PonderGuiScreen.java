@@ -25,7 +25,7 @@ public class PonderGuiScreen extends GuiScreen {
     }
 
     /**
-     * This method must be called before {@code super.init()}!
+     * This method must be called before {@code super.initGui()}!
      */
     protected void setWindowSize(int width, int height) {
         windowWidth = width;
@@ -33,7 +33,7 @@ public class PonderGuiScreen extends GuiScreen {
     }
 
     /**
-     * This method must be called before {@code super.init()}!
+     * This method must be called before {@code super.initGui()}!
      */
     protected void setWindowOffset(int xOffset, int yOffset) {
         windowXOffset = xOffset;
