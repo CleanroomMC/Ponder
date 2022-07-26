@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "ponder",
+  "name": "Ponder",
+  "description": "Create's Pondering mechanics, extracted into its own mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["CleanroomMC"],
-  "credits": "Authors of this project",
+  "credits": "logan-mcduffie, Rongmario",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
